@@ -7,7 +7,7 @@
 #define PIN_SPEAKER (13)
 
 void setup() {
-    pinMode(PIN_FAN, OUTPUT);
+    pinMode(PIN_SPEAKER, OUTPUT);
 }
 
 void loop() {
